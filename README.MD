@@ -2,7 +2,7 @@
 
 ## Description
 
-Course 2 of 3 in the Accelerated Computer Science Fundamentals Certification on Coursera.  
+Course 3 of 3 in the Accelerated Computer Science Fundamentals Certification on Coursera.  
 
 I'm using this repo to track my progress through the course.  
 
@@ -21,7 +21,7 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ## Week 1: Orientation; Hashing
 
-- xxx
+- Intro to Hashing
 
 ## Week 2: Disjoint Sets
 
