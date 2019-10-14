@@ -22,10 +22,20 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 ## Week 1: Orientation; Hashing
 
 - Intro to Hashing
+- Hash Function
+- Collision Handling
+  - Separate Chaining
+  - Probing and Double Hashing
+- Hashing Analysis
 
 ## Week 2: Disjoint Sets
 
-- xxx
+- Disjoint Sets Intro
+- Naive Implementation
+- UpTrees:
+  - A better Implementation
+  - Simple running time
+  - Smart union and path compression
 
 ## Week 3: Graph Data Structures
 
