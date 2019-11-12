@@ -30,7 +30,7 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ## Week 2: Disjoint Sets
 
-- Disjoint Sets 
+- Disjoint Sets
   - Intro
   - Naive Implementation
 - Disjoint Set UpTrees:
@@ -49,8 +49,8 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ## Week 4: Graph Traversal
 
-- xxxx
+- xxx
 
 ---
 
-## [Certificate of Completion - pending]()
+## [Certificate of Completion - pending]()  
