@@ -30,20 +30,27 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ## Week 2: Disjoint Sets
 
-- Disjoint Sets Intro
-- Naive Implementation
-- UpTrees:
+- Disjoint Sets 
+  - Intro
+  - Naive Implementation
+- Disjoint Set UpTrees:
   - A better Implementation
   - Simple running time
   - Smart union and path compression
 
 ## Week 3: Graph Data Structures
 
-- xxx
+- Graphs
+  - Introduction
+  - Vocabulary
+  - List Implementation
+  - Adjacency Matrix Implementation
+  - Adjacency List Implementation
 
 ## Week 4: Graph Traversal
 
-- xxx
+- xxxx
 
 ---
 
+## [Certificate of Completion - pending]()
