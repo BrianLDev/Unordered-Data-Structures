@@ -49,8 +49,21 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ## Week 4: Graph Traversal
 
-- xxx
+- Graph Traversals
+  - Breadth First Traversal (BFS)
+  - Depth First Traversal (DFS)
+- Minimum Spanning Trees
+  - Minimum Spanning Trees (MST) Intro
+  - Kruskal's Algorithm
+  - Prim's Algorithm
+- Shortest Path Algorithms
+  - Dijkstra's Algorithm
+    - edge cases
+    - runtime
+  - Landmark Path Problem
 
 ---
 
-## [Certificate of Completion - pending]()  
+## [Certificate of Completion - pending]()
+
+Note - making these edits so that Wakatime will track my work on coursera and AWS.  Delete them later
