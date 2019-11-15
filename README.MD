@@ -64,4 +64,4 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 
 ---
 
-## [Certificate of Completion - pending]()
+## [Certificate of Completion - 11-15-2019](https://www.coursera.org/account/accomplishments/certificate/RUGEJ8HCRWVN)
