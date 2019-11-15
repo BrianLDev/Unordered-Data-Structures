@@ -65,5 +65,3 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
 ---
 
 ## [Certificate of Completion - pending]()
-
-Note - making these edits so that Wakatime will track my work on coursera and AWS.  Delete them later
